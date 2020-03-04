@@ -1,0 +1,30 @@
+  
+#questions{
+    border: solid 2px gray;
+    padding: 5%;
+}
+
+input{
+   max-width: 500px;
+}
+
+#submit{
+    max-width: 150px;
+}
+
+.imagepreview{
+    width: 100%;
+}
+
+.caption{
+    font-size: larger;
+    text-align: center;
+}
+
+hr{
+    max-width: 700px;
+}
+
+b{
+    color: red;
+}
